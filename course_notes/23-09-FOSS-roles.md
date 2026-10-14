@@ -10,11 +10,13 @@ A user can contribute to the project by submitting a **bug/issue report**. A goo
 
 ## Contributors
 
-Contributors are people who are actively helping to improve a FOSS project. This can involve writing code, documentation or translations. Contributors may also help reproduce bugs reported by users.
+Contributors are people who are actively helping to improve a FOSS project but they are just not programmers. This can involve writing code, documentation, translations, testing or even improving the user experience. Contributors may also help reproduce bugs reported by users.
 
-For example, if a user reports a bug, a contributor may investigate the issue by trying to reproduce the same behaviour. Reproducing a bug helps determine whether the problem is real and can provide further details about its cause.
+For example, a UX/UI designer can contribute to an open source project by identifying usability problems and suggesting improvements, even without writing single line of code. A translator can make the software accessible to people who speak different languages.
 
-Contributors may also review code or other submissions made by other contributors.
+Contributors may also help reproduce bugs reported by users. This involves trying to recreate the same bug to confirm it occurs and find information that can help identify its cause.
+
+**Issue Triage** - is the process of reviewing and organizing reported issues to decide what action they need. Contributors or Maintainers may check whether a bug report contains enough information, try to reproduce the problem, label and categorize the issue, identify duplicate reports, and help determine its priority. Triage helps the project team focus on important issues and decide which ones need further investigation.
 
 ## Maintainers
 
